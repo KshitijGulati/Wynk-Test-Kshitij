@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Piczilla-master.iml" filepath="$PROJECT_DIR$/Piczilla-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wynk-master-test/Wynk-master-test.iml" filepath="$PROJECT_DIR$/Wynk-master-test/Wynk-master-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wynk-test-kshitij.iml" filepath="$PROJECT_DIR$/Wynk-test-kshitij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wynk-master-test/app.iml" filepath="$PROJECT_DIR$/Wynk-master-test/app.iml" />
+    </modules>
+  </component>
+</project>
